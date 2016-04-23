@@ -4,3 +4,4 @@ http://shorishresearch.com/2014/11/25/installing-mongodb-and-pymongo-on-ubuntu-1
 http://api.mongodb.org/python/current/api/pymongo/collection.html
 http://www.happyminds.es/eliminar-datos-en-mongodb/#sthash.6RAHYuVC.dpbs
 http://jarroba.com/python-mongodb-driver-pymongo-con-ejemplos/
+https://stickybitshell.wordpress.com/2013/04/24/como-instalar-pip-en-debian-o-ubuntu-python/
