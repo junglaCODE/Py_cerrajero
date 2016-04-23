@@ -1,0 +1,6 @@
+http://api.mongodb.org/python/current/tutorial.html
+http://www.genbetadev.com/trabajar-como-desarrollador/mongodb-encuentra-tus-datos-con-consultas-simples
+http://shorishresearch.com/2014/11/25/installing-mongodb-and-pymongo-on-ubuntu-14-04/
+http://api.mongodb.org/python/current/api/pymongo/collection.html
+http://www.happyminds.es/eliminar-datos-en-mongodb/#sthash.6RAHYuVC.dpbs
+http://jarroba.com/python-mongodb-driver-pymongo-con-ejemplos/
